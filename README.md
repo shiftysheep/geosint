@@ -19,7 +19,7 @@ Category:
     lng: # Longitude for street view
     maxZ: # 1-5 are valid options
     flag: # The flag for successfully completing challenge
-    flag_file: # The file containing 
+    flag_file: # The file containing the flag to override static flag
     img: # The tile image to display
 ```
 
